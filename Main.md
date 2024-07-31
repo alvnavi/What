@@ -1,15 +1,13 @@
 ---
 dg-publish: true
 dg-home: true
-relay-to:
+it worked: true
 ---
 [[project lic]]
 
 [[Honey]]
 
 [[3d]]
-
-Tr
 
 # todo
 
