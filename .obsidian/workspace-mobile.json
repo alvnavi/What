@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a5e576007d325126",
+    "id": "65b678d3599ebbc4",
     "type": "split",
     "children": [
       {
-        "id": "b2963d85b525c7d0",
+        "id": "a09d104b736cf7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "0db8da21901b2fee",
+            "id": "5985eddf75570b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67ae15edd15a6a3f",
+    "id": "a35bcdf2754e1462",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cc295e0deeb0018d",
+        "id": "04ecec98b6b335a5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "3298e3af1e85db68",
+        "id": "dea99468af4bc1ed",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "ff17314f505673ca",
+        "id": "34672f7db76e2757",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "8c13a80c7ae1bb89",
+        "id": "c7f5765407028533",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,11 +76,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d377c52619f42bb1",
+    "id": "6198760d03bca0e6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "829ace33a5c70e65",
+        "id": "f1f42863b075ba82",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "id": "66787ce26797c544",
+        "id": "7b0af87c810eed14",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,7 +109,7 @@
         }
       },
       {
-        "id": "61f0f19da136e667",
+        "id": "b3009ff9380724f0",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -131,33 +131,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0db8da21901b2fee",
+  "active": "5985eddf75570b74",
   "lastOpenFiles": [
-    "/Main.md",
-    "3d.md",
-    "Gemini teat.md",
     "teñido con bugambilias.md",
     "puerta arriba aluminio.md",
     "project lic.md",
+    "piso.md",
     "medida viga ipr.md",
     "isaias.md",
+    "how to.md",
     "don fidi.md",
     "cotización baño.md",
     "bentonite.md",
     "Trompo.md",
+    "Test.md",
     "Spaghetti.md",
     "Romina.md",
     "Renata.md",
     "README.md",
     "Otra persona.md",
+    "Main.md",
     "Main piso.md",
     "Honey.md",
     "Gemini test.md",
-    "/3d.md",
-    "/teñido con bugambilias.md",
-    "/puerta arriba aluminio.md",
-    "/project lic.md",
-    "/medida viga ipr.md",
-    "/isaias.md"
+    "3d.md"
   ]
 }
