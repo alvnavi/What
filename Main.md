@@ -1,14 +1,13 @@
 ---
 dg-publish: true
 dg-home: true
+relay-to:
 ---
 [[project lic]]
 
 [[Honey]]
 
 [[3d]]
-
-[[Thissa]]
 
 # todo
 
