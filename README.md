@@ -1,1 +1,1 @@
-# what
+Just use the git plugin in obsidian, configure and use 
