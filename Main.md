@@ -7,7 +7,6 @@ dg-home: true
 [[Honey]]
 
 [[3d]]
-Tt
 # todo
 
 [[teñido con bugambilias]]
