@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 dg-home: true
-it worked: true
 ---
 [[project lic]]
 
