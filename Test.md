@@ -12,7 +12,7 @@ dg-publish: true
 > largo_tabique = 5.5
 > 
 > # Dimensiones de la pared (en metros)
-> ancho_pared = 113
+> ancho_pared = 46
 > largo_pared = 46
 > 
 > # Tamaño de la mezcla
