@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 dg-home: true
+share_link: https://share.note.sx/vp9rshje#lKyOukt3vcz6Ob7TQZif+4q1R7SlcULuWuU5TKew73Q
+share_updated: 2024-08-01T10:40:08-06:00
 ---
 [[project lic]]
 

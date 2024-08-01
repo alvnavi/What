@@ -1,6 +1,6 @@
 ---
-share_link: https://share.note.sx/a9t805pb#3/bmCgjLv3q4ZO55RK/0j4PcC0JXmCQ98HLHwXclCeU
-share_updated: 2024-07-25T16:45:39-06:00
+share_link: https://share.note.sx/7w7shglh#3/bmCgjLv3q4ZO55RK/0j4PcC0JXmCQ98HLHwXclCeU
+share_updated: 2024-08-01T10:41:34-06:00
 dg-publish: true
 ---
 - [ ] [[cotización baño]]
@@ -11,3 +11,4 @@ dg-publish: true
 - [x] espejo 1.10 x 1.80 ✅ 2024-07-22
 - [ ] [[medida viga ipr]]
 - [ ] [[main piso]]
+- [ ] [medidas pecho paloma](2024-08-01)
