@@ -1,6 +1,6 @@
 ---
-share_link: https://share.note.sx/7w7shglh#3/bmCgjLv3q4ZO55RK/0j4PcC0JXmCQ98HLHwXclCeU
-share_updated: 2024-08-01T10:41:34-06:00
+share_link: https://share.note.sx/bkgiwp1s#3/bmCgjLv3q4ZO55RK/0j4PcC0JXmCQ98HLHwXclCeU
+share_updated: 2024-08-01T10:42:47-06:00
 dg-publish: true
 ---
 - [ ] [[cotización baño]]
