@@ -6,5 +6,7 @@
   "_audioNotesApiKey": "",
   "_debugMode": false,
   "_DGApiKey": "6bbd9fcf7146784d4c2a771cc3004f64efe1188c",
-  "_DGTranscriptFolder": "transcripts/"
+  "_DGTranscriptFolder": "transcripts/",
+  "positions": {},
+  "uuid": "db28-605f-4ff1-fd0a"
 }

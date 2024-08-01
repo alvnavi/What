@@ -12,4 +12,4 @@ dg-publish: true
 - [ ] [[medida viga ipr]]
 - [ ] [[main piso]]
 - [ ] [medidas pecho paloma](2024-08-01)
-- [ ] [[pendientes]]
+- [ ] [[pendientes lic]]
