@@ -1,0 +1,2 @@
+- excepto el escalón 
+- 20cm x 3 tabiques 

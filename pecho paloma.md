@@ -1,0 +1,1 @@
+- cortar a la mitad

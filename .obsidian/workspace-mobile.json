@@ -128,16 +128,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obligator:Open today's obligator note": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "smart-memos:Record smart memo": false
     }
   },
   "active": "5985eddf75570b74",
   "lastOpenFiles": [
-    "project lic.md",
+    "pecho paloma.md",
     "pendientes lic.md",
+    "jardineras.md",
+    "pilares troncos.md",
+    "escalon lateral.md",
+    "escalones baños.md",
+    "project lic.md",
+    "Main.md",
     "audio/AudioNote-2024-08-01T17-49-28.843Z.webm",
     "audio",
-    "Main.md",
     "2024-08-01.md",
     "Day",
     "dailyn",
@@ -160,10 +168,6 @@
     "Spaghetti.md",
     "Romina.md",
     "Renata.md",
-    "README.md",
-    "Otra persona.md",
-    "Main piso.md",
-    "Honey.md",
-    "Gemini test.md"
+    "README.md"
   ]
 }

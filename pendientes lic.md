@@ -1,6 +1,12 @@
+---
+share_link: https://share.note.sx/pyo942zf#KY25y2nvKpRCt0sVYVohmuDKINF++MO3D2m8iSRmP50
+share_updated: 2024-08-01T16:47:41-06:00
+---
 
-- [ ] apagadores
-- [ ] escalon lateral
-- [ ] escalones baños
-- [ ] jardineras
-- [ ] contactos
+- [ ] [[escalon lateral]]
+- [ ] [[escalones baños]]
+- [ ] 4 contactos
+- [ ] [[pilares troncos]]
+- [ ] [[jardineras]]
+- [ ] [[pecho paloma]]
+

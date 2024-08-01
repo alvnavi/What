@@ -1,0 +1,2 @@
+- al raz del adoquín
+- 30 cm
