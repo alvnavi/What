@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project lic.md",
-                "mode": "source",
+                "file": "pendientes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "project lic.md",
+            "file": "pendientes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "project lic.md",
+            "file": "pendientes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "project lic.md"
+            "file": "pendientes.md"
           }
         }
       }
@@ -129,13 +129,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obligator:Open today's obligator note": false
+      "obligator:Open today's obligator note": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false
     }
   },
   "active": "5985eddf75570b74",
   "lastOpenFiles": [
-    "Main.md",
+    "audio/AudioNote-2024-08-01T17-49-28.843Z.webm",
+    "audio",
     "project lic.md",
+    "pendientes.md",
+    "Main.md",
     "2024-08-01.md",
     "Day",
     "dailyn",
@@ -162,7 +166,6 @@
     "Otra persona.md",
     "Main piso.md",
     "Honey.md",
-    "Gemini test.md",
-    "3d.md"
+    "Gemini test.md"
   ]
 }
