@@ -10,16 +10,31 @@
           {
             "id": "5985eddf75570b74",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pendientes lic.md",
+                "file": "project lic.md",
                 "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fdbf4abda3b1d1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dentista.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pendientes lic.md",
+            "file": "Dentista.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pendientes lic.md",
+            "file": "Dentista.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pendientes lic.md"
+            "file": "Dentista.md"
           }
         }
       }
@@ -134,16 +149,17 @@
       "smart-memos:Record smart memo": false
     }
   },
-  "active": "5985eddf75570b74",
+  "active": "fdbf4abda3b1d1c4",
   "lastOpenFiles": [
-    "pecho paloma.md",
+    "Main.md",
+    "Dentista.md",
+    "project lic.md",
     "pendientes lic.md",
+    "pecho paloma.md",
     "jardineras.md",
     "pilares troncos.md",
-    "escalon lateral.md",
     "escalones baños.md",
-    "project lic.md",
-    "Main.md",
+    "escalon lateral.md",
     "audio/AudioNote-2024-08-01T17-49-28.843Z.webm",
     "audio",
     "2024-08-01.md",
@@ -167,7 +183,6 @@
     "Test.md",
     "Spaghetti.md",
     "Romina.md",
-    "Renata.md",
-    "README.md"
+    "Renata.md"
   ]
 }
